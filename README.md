@@ -1,4 +1,4 @@
-# springboot-jobrunnr-cron
+# Springboot-JobRunnr-Cron
 `Creating Distributed Cron Jobs using Spring Boot`
 
 
