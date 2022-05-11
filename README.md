@@ -1,7 +1,6 @@
 # Springboot-JobRunnr-Cron
 `Creating Distributed Cron Jobs using Spring Boot`
 
-
 ### Requirements
  - JobRunr Dep
  - JSON parser Library [Jackson / GSON / Json-B]
